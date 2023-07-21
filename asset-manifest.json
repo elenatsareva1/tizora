@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tizora/static/css/main.bee6e5b2.css",
+    "main.js": "/tizora/static/js/main.2e1ac01a.js",
+    "static/media/stairs.svg": "/tizora/static/media/stairs.e87537b14a20868aae46.svg",
+    "static/media/hero.png": "/tizora/static/media/hero.d41fba5f9237142aa57f.png",
+    "static/media/dubai.svg": "/tizora/static/media/dubai.aad8a5c76353cb585a78c5dfa224fa4a.svg",
+    "static/media/moscow.svg": "/tizora/static/media/moscow.5d9ef5b9493aeae993b5c8d76b9af3a6.svg",
+    "static/media/OBJECTS.png": "/tizora/static/media/OBJECTS.9ed6e94aa08a22fb92b4.png",
+    "static/media/naim_lamidov.jpg": "/tizora/static/media/naim_lamidov.aeabb0289cb666106e3e.jpg",
+    "index.html": "/tizora/index.html",
+    "main.bee6e5b2.css.map": "/tizora/static/css/main.bee6e5b2.css.map",
+    "main.2e1ac01a.js.map": "/tizora/static/js/main.2e1ac01a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee6e5b2.css",
+    "static/js/main.2e1ac01a.js"
+  ]
+}
