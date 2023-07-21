@@ -1,0 +1,90 @@
+.paintings-main-div {
+    min-height: 605px;
+}
+
+.paintings-title-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+}
+
+.paintings-title {
+    margin-bottom: 58px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 49px;
+    line-height: 60px;
+    text-transform: uppercase;    
+    color: #4D453A;
+}
+
+.paintings-links-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.paintings-link {
+    font-style: normal;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.paintings-img-div {
+    background-image: url('../../public/images/Paintings/stairs.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 70%;
+    min-height: 350px;
+}
+
+.paintings-cards-div {
+    margin-bottom: 50px;
+}
+
+.cards-paintings__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.cards-paintings__item {
+    padding: 20px;
+}
+
+.cards-paintings__item__title {
+    color: rgba(255, 255, 255, 0.80);
+    text-align: center;
+    font-size: 16px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.cards-paintings__item__link {
+    text-decoration: none;
+}
+
+.cards-paintings__item__text {
+    color: #757575;
+    text-align: center;
+    font-size: 16px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.cards-paintings__item__pic-wrap {
+    margin-bottom: 30px;
+}

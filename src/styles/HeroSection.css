@@ -1,0 +1,29 @@
+.hero-container {
+    flex-direction: column;
+    padding-left: 60px;    
+    min-height: 650px;
+    background-image: url('../../public/images/hero.png');
+    background-position:  200% 60%;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.hero-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 49px;
+    line-height: 58px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.hero-subtitle {
+    margin-bottom: 60px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 58px;    
+    color: #837264;
+}

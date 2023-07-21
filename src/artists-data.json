@@ -1,0 +1,112 @@
+{
+    "sergey_antipov": {
+        "paintings": [
+            {   "id": "1",
+                "url": "../images/Paintings/sergey_antipov/sergey_antipov_1.jpg",
+                "name": "No name",
+                "info": "80 x 120 см"
+            },
+            {   "id": "2",
+                "url": "../images/Paintings/sergey_antipov/sergey_antipov_2.jpg",
+                "name": "No name",
+                "info": "70 x 90 см"
+            },
+            {   "id": "3",
+                "url": "../images/Paintings/sergey_antipov/sergey_antipov_3.jpg",
+                "name": "No name",
+                "info": "75 x 80 см"
+            },
+            {   "id": "4",
+                "url": "../images/Paintings/sergey_antipov/sergey_antipov_4.jpg",
+                "name": "No name",
+                "info": "80 x 120 см"
+            },
+            {   "id": "5",
+                "url": "../images/Paintings/sergey_antipov/sergey_antipov_5.jpg",
+                "name": "Иное вверх",
+                "info": "70 x 90 см"
+            },
+            {   "id": "6",
+                "url": "../images/Paintings/sergey_antipov/sergey_antipov_6.jpg",
+                "name": "No name",
+                "info": "75 x 80 см"
+            }
+
+        ]
+    },
+    "naim_lamidov": {
+        "paintings": [
+            {   "id": "1",
+                "url": "../images/Paintings/naim_lamidov/naim_lamidov_1.jpg",
+                "name": "Рассвет",
+                "info": "80 x 120 см"
+            },
+            {   "id": "2",
+                "url": "../images/Paintings/naim_lamidov/naim_lamidov_2.jpg",
+                "name": "Сказачное местечко",
+                "info": "70 x 90 см"
+            },
+            {   "id": "3",
+                "url": "../images/Paintings/naim_lamidov/naim_lamidov_3.jpg",
+                "name": "Светлый день",
+                "info": "75 x 80 см"
+            },
+            {   "id": "4",
+                "url": "../images/Paintings/naim_lamidov/naim_lamidov_4.jpg",
+                "name": "В ожидании",
+                "info": "100 x 100 см"
+            },
+            {   "id": "5",
+                "url": "../images/Paintings/naim_lamidov/naim_lamidov_5.jpg",
+                "name": "Весна в подмосковье",
+                "info": "80 x 100 см"
+            },
+            {   "id": "6",
+                "url": "../images/Paintings/naim_lamidov/naim_lamidov_6.jpg",
+                "name": "Снег Уходит",
+                "info": "80 x 100 см"
+            },
+            {   "id": "7",
+                "url": "../images/Paintings/naim_lamidov/naim_lamidov_7.jpg",
+                "name": "Театральное отражение",
+                "info": "80 x 100 см"
+            }
+
+        ]
+    },
+    "marina_oganesyan": {
+        "paintings": [
+            {   "id": "1",
+                "url": "../images/Paintings/marina_oganesyan/marina_oganesyan_1.jpg",
+                "name": "Рыба",
+                "info": "35 x 50 см"
+            },
+            {   "id": "2",
+                "url": "../images/Paintings/marina_oganesyan/marina_oganesyan_2.jpg",
+                "name": "Девушка",
+                "info": "35 x 50 см"
+            }
+        ]
+    },
+    "petr_osinin": {
+        "paintings": [
+            {   "id": "1",
+                "url": "../images/Paintings/petr_osinin/petr_osinin_1.jpg",
+                "name": "No name",
+                "info": "35 x 50 см"
+            },
+            {   "id": "2",
+                "url": "../images/Paintings/petr_osinin/petr_osinin_2.jpg",
+                "name": "No name",
+                "info": "35 x 50 см"
+            },
+            {   "id": "3",
+                "url": "../images/Paintings/petr_osinin/petr_osinin_2.jpg",
+                "name": "Валуны",
+                "info": "50 x 80 см"
+            }
+        ]
+    }
+
+    
+}

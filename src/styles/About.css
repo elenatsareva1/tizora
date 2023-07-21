@@ -1,0 +1,180 @@
+.about {
+    padding: 125px 104px;
+    display: flex;
+}
+
+.about-left {
+    min-height: 860px;
+    width: 50%;
+    margin-right: 66px;
+    padding: 68px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid #4D453A ;
+}
+
+.about-text-block {
+    margin-bottom: 30px;
+}
+
+.about-title {
+    margin-bottom: 66px;
+    color: #4D453A;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 49px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+.about-text {
+    margin-bottom: 10px;
+    line-height: 22px;
+    color: #fff;
+}
+
+.about-left__icons-block {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.about-left__icons {  
+    margin-bottom: 48px;  
+    width: 77px;
+    height: 87px;
+}
+
+
+.about-right {    
+    width: 50%;   
+}
+
+.about-right__image-block {
+    min-height: 409px;
+    background-image: url('../../public/images/About/Tizora.png');
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.about-right__text-block {    
+    padding: 30px 61px;    
+    min-height: 468px;
+    background: linear-gradient(0deg, #524A3E 0%, rgba(222, 215, 204, 0) 100%);
+}
+
+.about-right__text {
+    width: 97%;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.about-right__title {    
+    font-weight: 100;
+    font-size: 158px;
+    line-height: 193px;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 87.4%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
+}
+
+.mission-title-div {
+    margin-bottom: 70px;    
+    padding: 16px;
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #080808, #080808, #fff, #080808, #080808);
+    border-left: 0;
+    border-right: 0;
+}
+
+.mission-title {
+    color: #fff;
+    font-weight: 100;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.mission-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 120px;
+
+}
+
+.mission-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 302px;
+}
+
+.mission-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #fff;
+}
+
+.mission-icon {
+    width: 113px;
+    height: 113px;
+}
+
+.goals {
+    margin-bottom: 110px;
+}
+
+.goals-wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+    gap: 69px;
+}
+
+.goals-item {
+    max-width: 890px;
+    background: linear-gradient(-90deg, #4F473B 0%, rgba(79, 71, 59, 0) 100%);
+    
+}
+
+.goals-text {
+    max-width: 637px;
+    text-align: right;
+    padding: 52px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.goals-img {
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+.video-div {
+    position: relative;
+    padding: 0 90px 110px;
+    display: flex;
+    justify-content: center;
+}
+
+.video-btn {
+    position: absolute;
+    bottom: 353px;
+    left: center;
+    background: transparent;
+    border-radius: 10px;
+    cursor: pointer;
+}
